@@ -3,7 +3,7 @@
 <p> Build a one-page website to introduce yourself. </p>
 <h3> Requirements</h3>
 <ol>
-  <li><pre> Use semantic HTML tags (<header>, <section>, <footer>) to structure the page. </pre></li>
+  <li> Use semantic HTML tag to structure the page.</li>
   <li>The page includes: 
       <ul>
             <li> A header with your name as the main title.</li>
@@ -22,7 +22,8 @@
    </li>
 </ol>
 <h4> <b> KEY CONCEPT </b></h4>
-<p>  Semantic HTML (<header>, <section>), CSS for styling (colors, fonts, 
+<p>  Semantic HTML (header tag, section tag), CSS for styling (colors, fonts, 
 margins), embedding an image.</p>
+
 
 
