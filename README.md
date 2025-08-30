@@ -24,6 +24,5 @@
 <h4> <b> KEY CONCEPT </b></h4>
 <p>  Semantic HTML (header tag, section tag), CSS for styling (colors, fonts, 
 margins), embedding an image.</p>
-
-
-
+<h2> Screenshot:</h2>
+<img src= "Screenshot 2025-08-30 181442.png"" alt="Profile" ">
